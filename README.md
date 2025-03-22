@@ -7,8 +7,11 @@ Email Verifier Tool is a simple CLI application written in Go that checks if a g
 How to run :
 
 go run main.go 
+
 Please enter a Domian name:
+
 hotmail.com
+
 | domain: hotmail.com
 | hasMx: true
 | hasSPF: true
